@@ -1,0 +1,959 @@
+{
+    "traceEvents": [
+        {
+            "ph": "M",
+            "pid": 271396,
+            "tid": 271396,
+            "name": "process_name",
+            "args": {
+                "name": "MainProcess"
+            }
+        },
+        {
+            "ph": "M",
+            "pid": 271396,
+            "tid": 271396,
+            "name": "thread_name",
+            "args": {
+                "name": "MainThread"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185092.406,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 0
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185104.78,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 1
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185100.051,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 6.666,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "3"
+                },
+                "return_value": "3"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185112.932,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 2
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185109.924,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 4.13,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "0"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185116.538,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 3
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185114.747,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.6,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "1"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185119.519,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 4
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185117.913,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.283,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "2"
+                },
+                "return_value": "1"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185122.096,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 5
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185120.584,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.179,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "3"
+                },
+                "return_value": "3"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185108.342,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 14.768,
+            "name": "funcaoB (./2-funcoes.py:11)",
+            "args": {
+                "func_args": {
+                    "v": "4"
+                },
+                "return_value": "4"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185128.432,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 6
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185126.727,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.223,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "0"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185130.714,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 7
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185129.332,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.932,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "1"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185132.859,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 8
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185131.567,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.76,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "2"
+                },
+                "return_value": "1"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185135.06,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 9
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185133.64,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.911,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "3"
+                },
+                "return_value": "3"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185137.338,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 10
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185135.885,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.979,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "4"
+                },
+                "return_value": "6"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185125.474,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 12.655,
+            "name": "funcaoB (./2-funcoes.py:11)",
+            "args": {
+                "func_args": {
+                    "v": "5"
+                },
+                "return_value": "10"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185141.848,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 11
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185140.388,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.874,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "0"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185144.197,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 12
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185142.573,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.082,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "1"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185146.404,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 13
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185144.999,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.863,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "2"
+                },
+                "return_value": "1"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185148.517,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 14
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185147.17,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.852,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "3"
+                },
+                "return_value": "3"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185150.654,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 15
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185149.328,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.819,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "4"
+                },
+                "return_value": "6"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185139.374,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 11.987,
+            "name": "funcaoB (./2-funcoes.py:11)",
+            "args": {
+                "func_args": {
+                    "v": "5"
+                },
+                "return_value": "10"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185124.451,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 27.297,
+            "name": "funcaoC (./2-funcoes.py:17)",
+            "args": {
+                "func_args": {
+                    "v": "5"
+                },
+                "return_value": "20"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185155.693,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 16
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185153.449,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.838,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "6"
+                },
+                "return_value": "15"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185159.321,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 17
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185157.813,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.922,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "0"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185161.45,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 18
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185160.038,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.844,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "1"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185163.564,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 19
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185162.161,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.852,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "2"
+                },
+                "return_value": "1"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185165.647,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 20
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185164.299,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.867,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "3"
+                },
+                "return_value": "3"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185170.108,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 21
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185166.45,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 4.24,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "4"
+                },
+                "return_value": "6"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185174.45,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 22
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185172.746,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.301,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "5"
+                },
+                "return_value": "10"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185156.734,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 18.604,
+            "name": "funcaoB (./2-funcoes.py:11)",
+            "args": {
+                "func_args": {
+                    "v": "6"
+                },
+                "return_value": "20"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185179.355,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 23
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185177.757,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.042,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "0"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185181.593,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 24
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185180.084,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.979,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "1"
+                },
+                "return_value": "0"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185183.8,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 25
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185182.349,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.917,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "2"
+                },
+                "return_value": "1"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185186.095,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 26
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185184.583,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 1.992,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "3"
+                },
+                "return_value": "3"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185188.371,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 27
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185186.87,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.029,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "4"
+                },
+                "return_value": "6"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185190.724,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 28
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185189.228,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.045,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "5"
+                },
+                "return_value": "10"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185176.605,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 14.871,
+            "name": "funcaoB (./2-funcoes.py:11)",
+            "args": {
+                "func_args": {
+                    "v": "6"
+                },
+                "return_value": "20"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185193.794,
+            "ph": "C",
+            "name": "Variable Assign - contador",
+            "args": {
+                "Variable Assign - contador": 29
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185192.123,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 2.221,
+            "name": "funcaoA (./2-funcoes.py:3)",
+            "args": {
+                "func_args": {
+                    "v": "6"
+                },
+                "return_value": "15"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185175.735,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 18.945,
+            "name": "funcaoC (./2-funcoes.py:17)",
+            "args": {
+                "func_args": {
+                    "v": "6"
+                },
+                "return_value": "35"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185152.67,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 42.357,
+            "name": "funcaoD (./2-funcoes.py:34)",
+            "args": {
+                "func_args": {
+                    "v": "6"
+                },
+                "return_value": "70"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185223.196,
+            "ph": "i",
+            "cat": "instant",
+            "name": "print - a=3\nb=4\nc=20\nd=70\n",
+            "s": "g"
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185097.356,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 149.067,
+            "name": "main (./2-funcoes.py:37)",
+            "args": {
+                "func_args": {},
+                "return_value": "None"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493185084.259,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 162.638,
+            "name": "<module> (./2-funcoes.py:1)",
+            "args": {
+                "func_args": {},
+                "return_value": "None"
+            }
+        },
+        {
+            "pid": 271396,
+            "tid": 271396,
+            "ts": 29493184808.234,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 439.237,
+            "name": "builtins.exec"
+        }
+    ],
+    "viztracer_metadata": {
+        "overflow": false,
+        "version": "1.0.4"
+    },
+    "file_info": {
+        "files": {
+            "./2-funcoes.py": [
+                "contador = 0\n\ndef funcaoA(v: int) -> int:\n    global contador\n    contador += 1\n    soma = 0\n    for i in range(v):\n        soma += i\n    return soma\n\ndef funcaoB(v:int) -> int:\n    soma = 0\n    for i in range(v):\n        soma += funcaoA(i)\n    return soma\n\ndef funcaoC(v:int) -> int:\n    pass\n    pass\n    pass\n    soma = funcaoB(v)\n    pass\n    pass\n    pass\n    if (v%2) != 0:\n        soma += funcaoB(v)\n    else:\n        soma += funcaoA(v)\n    pass\n    pass\n    pass\n    return soma\n\ndef funcaoD(v:int) -> int:\n    return funcaoA(v) + funcaoB(v) + funcaoC(v)\n\ndef main():\n    a = funcaoA(3)\n    b = funcaoB(4)\n    c = funcaoC(5)\n    d = funcaoD(6)\n    print(f\"{a=}\\n{b=}\\n{c=}\\n{d=}\")\n\nif __name__ == \"__main__\":\n    main()\n",
+                45
+            ]
+        },
+        "functions": {
+            "funcaoA (./2-funcoes.py:3)": [
+                "./2-funcoes.py",
+                3
+            ],
+            "funcaoB (./2-funcoes.py:11)": [
+                "./2-funcoes.py",
+                11
+            ],
+            "funcaoC (./2-funcoes.py:17)": [
+                "./2-funcoes.py",
+                17
+            ],
+            "funcaoD (./2-funcoes.py:34)": [
+                "./2-funcoes.py",
+                34
+            ],
+            "main (./2-funcoes.py:37)": [
+                "./2-funcoes.py",
+                37
+            ],
+            "<module> (./2-funcoes.py:1)": [
+                "./2-funcoes.py",
+                1
+            ]
+        }
+    }
+}

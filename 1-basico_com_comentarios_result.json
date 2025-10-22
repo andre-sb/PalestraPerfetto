@@ -1,0 +1,150 @@
+{
+    "traceEvents": [
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243307.222,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 0
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243338.178,
+            "ph": "i",
+            "cat": "instant",
+            "name": "print - Começou",
+            "s": "g"
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243368.677,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 0
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243371.806,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 1
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243373.342,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 3
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243374.41,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 6
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243375.499,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 10
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243376.544,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 15
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243377.52,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 21
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243378.602,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 28
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243379.599,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 36
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243380.618,
+            "ph": "C",
+            "name": "Variable Assign - soma",
+            "args": {
+                "Variable Assign - soma": 45
+            }
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243363.361,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 17.709,
+            "name": "funcaoA"
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243404.23,
+            "ph": "i",
+            "cat": "instant",
+            "name": "print - a=45\n",
+            "s": "g"
+        },
+        {
+            "pid": 209820,
+            "tid": 209820,
+            "ts": 23126243300.041,
+            "ph": "X",
+            "cat": "fee",
+            "dur": 124.616,
+            "name": "Script"
+        }
+    ]
+}

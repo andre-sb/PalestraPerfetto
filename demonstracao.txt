@@ -1,0 +1,42 @@
+------ Slide 5 ------
+https://perfetto.dev/
+https://ui.perfetto.dev/   build.trace.gz
+
+
+------ Slides 7 & 8 ------
+https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU
+
+python 1-basico.py
+https://ui.perfetto.dev/   1-basico_com_comentarios_result.json
+
+
+------ Slides 10 & 11 ------
+https://viztracer.readthedocs.io/en/latest/index.html
+
+
+python 2-funcoes.py
+viztracer 2-funcoes.py
+vizviewer ./result.json
+cat ./result.json
+
+viztracer --log_print -- 2-funcoes.py
+viztracer --log_number contador -- 2-funcoes.py
+viztracer --log_number contador soma -- 2-funcoes.py
+viztracer --log_number contador soma --log_func_args --log_func_retval --log_print -- 2-funcoes.py
+
+SQL:
+https://perfetto.dev/docs/analysis/perfetto-sql-getting-started
+https://perfetto.dev/docs/analysis/sql-tables
+    select * from slices where name like 'funcao%'
+    select name,sum(dur) as total from slices where name like 'funcao%' group by name order by total desc
+
+Flamegraph
+
+
+------ Slide 12 ------
+
+python 3-pandas.py
+viztracer 3-pandas.py
+ll result.json
+viztracer --max_stack_depth 5 --min_duration 0.1ms 3-pandas.py
+viztracer --ignore_frozen 3-pandas.py
